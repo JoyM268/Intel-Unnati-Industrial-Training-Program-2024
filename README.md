@@ -58,7 +58,7 @@ Key features include:
 <br>
 
 ### Prompt Examples:
-**Example-1**:
+**Example-1**:<br>
 Prompt: 
 ```python
 response1 = chatbot.predict(query="What is difference between GPU and CPU.")
@@ -77,7 +77,7 @@ In summary, while both CPUs and GPUs are essential components of modern computer
 ```
 <br>
 
-**Example-2**:
+**Example-2**:<br>
 Prompt: 
 ```python
 response2 = chatbot.predict(query="Explain finetuning of a ai model.")
@@ -97,7 +97,7 @@ To finetune an AI model, you typically follow these steps:
 ```
 <br>
 
-**Example-3**:
+**Example-3**:<br>
 Prompt: 
 ```python
 response3 = chatbot.predict(query="What are TPU, are they better than GPU")
@@ -111,7 +111,7 @@ Comparing TPUs and GPUs can be complex as it depends on the specific application
 ```
 <br>
 
-**Example-4**:
+**Example-4**:<br>
 Prompt: 
 ```python
 response4 = chatbot.predict(query="What is a Transformer")
@@ -123,7 +123,7 @@ A Transformer is a type of neural network architecture designed for natural lang
 ```
 <br>
 
-**Example-5**:
+**Example-5**:<br>
 Prompt: 
 ```python
 response5 = chatbot.predict(query="What is a AGI")
