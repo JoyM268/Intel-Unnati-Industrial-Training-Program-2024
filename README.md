@@ -135,7 +135,7 @@ A General Artificial Intelligence (AGI) refers to a hypothetical future AI syste
 ```
 
 ### Fine-tuning your Chatbot:
-The following code is used to fine-tune the `TinyLlama-1.1B-Chat-v0.1` model on the [Alpaca dataset](https://github.com/tatsu-lab/stanford_alpaca).
+The following code is used to fine-tune the `TinyLlama_v1.1` model on the [Alpaca dataset](https://github.com/tatsu-lab/stanford_alpaca).
 
 ```python
 from transformers import TrainingArguments
@@ -146,7 +146,7 @@ from intel_extension_for_transformers.neural_chat.config import (
     TextGenerationFinetuningConfig,
 )
 from intel_extension_for_transformers.neural_chat.chatbot import finetune_model
-model_args = ModelArguments(model_name_or_path="TinyLlama/TinyLlama-1.1B-Chat-v0.1")
+model_args = ModelArguments(model_name_or_path="TinyLlama/TinyLlama_v1.1")
 data_args = DataArguments(train_file="alpaca_data.json", validation_split_percentage=1)
 training_args = TrainingArguments(
     output_dir='./tmp',
