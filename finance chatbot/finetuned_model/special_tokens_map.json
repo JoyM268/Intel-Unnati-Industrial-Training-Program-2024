@@ -1,0 +1,12 @@
+{
+  "bos_token": "<s>",
+  "eos_token": "</s>",
+  "pad_token": "<unk>",
+  "unk_token": {
+    "content": "<unk>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  }
+}
