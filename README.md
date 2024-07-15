@@ -11,7 +11,7 @@ Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Mode
   - [AbdulBasith A Mulla](https://github.com/hauntedknight55)
   - [Kodeganti Bhanu Shankar](https://github.com/heyitsELECTRO)
 
-- **Team Mentor**: Prathap Kumar
+- **Team Mentor**: Pratap Kumar
 
 - **Institute Name**: Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad. 
 
