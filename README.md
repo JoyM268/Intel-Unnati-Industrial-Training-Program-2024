@@ -26,8 +26,11 @@ Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Mode
     - Pre-trained Language Models can have large file sizes, which may require significant storage space and memory to load and run.  
     - Learn LLM inference on CPU.  
     - Understanding the concept of fine-tuning and its importance in customizing LLMs.  
-    - Create a Custom Chatbot with fine-tuned pre-trained Large Language Models (LLMs) using Intel AI Tools. 
+    - Create a Custom Chatbot with fine-tuned pre-trained Large Language Models (LLMs) using Intel AI Tools.
 
+- **Project Report**: [Report.pdf](https://github.com/JoyM268/Intel-Unnati-Industrial-Training-Program-2024/blob/main/Report.pdf)
+
+- **Project Video**: [Intel Project Video.mp4](https://drive.google.com/file/d/1y0zHbecpfFLH25lg24_Wu-sAX7mu-kjY/view?usp=sharing)
 <br>
 
 ### Creating a Chatbot:
